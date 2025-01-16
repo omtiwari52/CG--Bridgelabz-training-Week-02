@@ -1,5 +1,4 @@
 package Day01.Level01;
-import java.util.Scanner;
 public class Employee {
     
     //Declaring attributes
