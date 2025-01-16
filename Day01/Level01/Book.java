@@ -1,5 +1,3 @@
-// Write a program to create a Book class with attributes title, author, and price. Add a method to display the book details.
-
 package Day01.Level01;
 
 public class Book {
