@@ -39,6 +39,8 @@ public class Person {
 
     public static void main(String[] args) {
         Person om = new Person("OM", 23);
+        Person copyConstructor = new Person(om);
         om.display();
+        copyConstructor.display();
     }
 }
