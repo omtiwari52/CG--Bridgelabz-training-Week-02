@@ -20,9 +20,7 @@ public class Product {
     public static void displayTotalProducts() {
         System.out.println("Total Products Created: " + totalProducts);
     }
-}
 
-class Main{
     public static void main(String[] args) {
         // Creating product instances
         Product product1 = new Product("Laptop", 999.99);
