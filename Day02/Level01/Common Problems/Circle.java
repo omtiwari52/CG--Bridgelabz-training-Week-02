@@ -8,7 +8,7 @@ public class Circle {
         this(5);
     }
     
-    //parameterized constructor
+    //create a parameterized constructor
     Circle(double radius){
         this.radius = radius;
     }
