@@ -24,7 +24,7 @@ public class Circle {
 
     //method to display area of circle
     public void getArea() {
-        System.out.println(Math.PI * radius * radius);
+        System.out.println("Area of circle is : "+Math.PI * radius * radius);
     }
     public static void main(String[] args) {
         Circle circle1 = new Circle();
