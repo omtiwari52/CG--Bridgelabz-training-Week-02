@@ -27,7 +27,7 @@ class Book{
         return isAvailable;
     }
     public void setIsAvailable(boolean isAvailable) {
-       this.isAvailable = isAvailable;
+        this.isAvailable = isAvailable;
     }
 
     public void borrowBook() {
