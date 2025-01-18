@@ -25,7 +25,7 @@ public class EmployeeRecords {
             if (newSalary > 0) {
                 salary = newSalary;
             } else {
-                System.out.println("Salary must be valid.");
+                System.out.println("Salary input must be valid.");
             }
         }
     }
