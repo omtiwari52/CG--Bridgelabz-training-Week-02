@@ -42,7 +42,7 @@ class Book{
 
 public class LiberaryBookSystem {
     public static void main(String[] args) {
-        Book book1 = new Book("harsh", "balveer", 255, true);
+        Book book1 = new Book("Death : An Inside Story", "Sadhguru", 255, true);
         book1.borrowBook();
     }
 }
