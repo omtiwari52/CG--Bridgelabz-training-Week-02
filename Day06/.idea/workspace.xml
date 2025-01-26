@@ -32,11 +32,12 @@
     "Application.BankingSystem.Main.executor": "Run",
     "Application.LibraryManagementSystem.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OnlineFoodDeliverySystem.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LibraryManagementSystem.Main">
+  <component name="RunManager" selected="Application.OnlineFoodDeliverySystem.Main">
     <configuration name="BankingSystem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BankingSystem.Main" />
       <module name="Day06" />
@@ -76,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OnlineFoodDeliverySystem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlineFoodDeliverySystem.Main" />
+      <module name="Day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnlineFoodDeliverySystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OnlineFoodDeliverySystem.Main" />
         <item itemvalue="Application.LibraryManagementSystem.Main" />
         <item itemvalue="Application.BankingSystem.Main" />
         <item itemvalue="Application.Main" />
